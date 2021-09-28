@@ -1,7 +1,7 @@
 # gm fren
 Howdy. My name is Rodrigo, welcome to my crib. I'm a Frontend developer and crypto enthusiast looking for my first official job in the blockchain space.
 
-Feel free to reach me out, specially if you have some blockchain or cryptocurrency project in mind.
+Feel free to reach out to me, specially if you are working on any cool blockchain or cryptocurrency projects!
 
 
 Cheers!
