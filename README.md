@@ -7,8 +7,6 @@ Feel free to reach out to me, specially if you are working on any cool blockchai
 Cheers!
 
 ### 📫 Social
-<a href="https://twitter.com/elrorry">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Personal Twitter"/>
 </a><a href="https://www.linkedin.com/in/rodrigo-ali/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Personal LinkedIn"/>
 </a>
