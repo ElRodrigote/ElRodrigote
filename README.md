@@ -6,11 +6,6 @@ Feel free to reach out to me, specially if you are working on any cool blockchai
 
 Cheers!
 
-### 💬 Contact 
-<a href="https://t.me/rgoat">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Personal Telegram contact" />
-</a>
-
 ### 📫 Social
 <a href="https://twitter.com/elrorry">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Personal Twitter"/>
